@@ -1,3 +1,6 @@
 Apple
 Graphes
 Banana
+Animal
+Tere naam
+Sultan
